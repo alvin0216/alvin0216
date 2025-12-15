@@ -1,16 +1,10 @@
-Hi there, I'm [Alvin](https://alvin.run/)! 👋
+Hi there, I'm Alvin 👋
 
-Hi, I'm Alvin, a passionate front end web developer from China.
+A passionate front end web developer from China.
 
-- my study notes: [alvin's note](https://alvin.run/)
-- my works: [alvin's react-blog](https://blog.alvin.run/)
+- my study notes: [alvin's note](https://alvin0216.github.io/note/)
 - email: alvin00216@163.com
 
-[![Alvin's github stats](https://github-readme-stats.vercel.app/api?username=alvin0216&show_icons=true)](https://alvin.run)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin0216&layout=compact)](https://alvin.run)
+[![Alvin's github stats](https://github-readme-stats.vercel.app/api?username=alvin0216&show_icons=true)](https://github.com/alvin0216)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin0216&layout=compact)](https://github.com/alvin0216)
 
-<!--
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvin0216&repo=react-blog)](https://github.com/anuraghazra/github-readme-stats)
-
--->
